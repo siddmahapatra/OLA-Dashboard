@@ -29,46 +29,46 @@
 
 1. Date
 1. Time
-1. Booking\_ID
-1. Booking\_Status
-1. Customer\_ID
-1. Vehicle\_Type
-1. Pickup\_Location
-1. Drop\_Location
-1. V\_TAT
-1. C\_TAT
-1. cancelled\_Rides\_by\_Customer
-1. cancelled\_Rides\_by\_Driver
-1. Incomplete\_Rides
-1. Incomplete\_Rides\_Reason
-1. Booking\_Value
-1. Payment\_Method
-1. Ride\_Distance
-1. Driver\_Ratings
-1. Customer\_Rating
+1. Booking_ID
+1. Booking_Status
+1. Customer_ID
+1. Vehicle_Type
+1. Pickup_Location
+1. Drop_Location
+1. V_TAT
+1. C_TAT
+1. cancelled_Rides_by_Customer
+1. cancelled_Rides_by_Driver
+1. Incomplete_Rides
+1. Incomplete_Rides_Reason
+1. Booking_Value
+1. Payment_Method
+1. Ride_Distance
+1. Driver_Ratings
+1. Customer_Rating
 
 # Power BI Answers:
 
 Segregation of the views:
 1. ### **Overall**
-   0. Ride Volume Over Time
-   0. Booking Status Breakdown
+   1. Ride Volume Over Time
+   2. Booking Status Breakdown
 
-1. **Vehicle Type**
-   0. Top 5 Vehicle Types by Ride Distance
+2. **Vehicle Type**
+   1. Top 5 Vehicle Types by Ride Distance
 
-1. **Revenue**
-   0. Revenue by Payment Method
-   0. Top 5 Customers by Total Booking Value
-   0. Ride Distance Distribution Per Day
+3. **Revenue**
+   1. Revenue by Payment Method
+   2. Top 5 Customers by Total Booking Value
+   3. Ride Distance Distribution Per Day
 
-1. **Cancellation**
-   0. Cancelled Rides Reasons (Customer)
-   0. cancelled Rides Reasons(Drivers)
+4. **Cancellation**
+   1. Cancelled Rides Reasons (Customer)
+   2. cancelled Rides Reasons(Drivers)
 
-1. **Ratings**
-   0. Driver Ratings
-   0. Customer Ratings
+5. **Ratings**
+   1. Driver Ratings
+   2. Customer Ratings
 
 # Answers:
 1. **Ride Volume Over Time:** A time-series chart showing the number of rides per day/week.
