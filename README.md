@@ -12,6 +12,7 @@
 #9.Calculate the total booking value of rides completed successfully:
 #10.List all incomplete rides along with the reason:
 
+
 Power BI Questions:
 1.Ride Volume Over Time
 2.Booking Status Breakdown
