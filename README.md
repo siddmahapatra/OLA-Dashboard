@@ -1,6 +1,6 @@
 # OLA-Dashboard
 
-SQL Questions:
+#SQL Questions:
 #1.Retrieve all successful bookings:
 #2.Find the average ride distance for each vehicle type:
 #3.Get the total number of cancelled rides by customers:
